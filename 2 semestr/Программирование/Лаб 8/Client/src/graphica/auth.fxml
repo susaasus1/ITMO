@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane prefHeight="480.0" prefWidth="640.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="graphica.AuthController">
+    <children>
+        <AnchorPane layoutY="0.0" prefHeight="480.0" prefWidth="640.0">
+            <children>
+                <TextField fx:id="loginField" layoutX="95.0" layoutY="150.0" prefHeight="37.0" prefWidth="451.0" promptText="Логин" style="-fx-border-color: #c0c0c0; -fx-border-radius: 5;">
+                    <font>
+                        <Font size="18.0" />
+                    </font>
+                </TextField>
+                <PasswordField fx:id="passwordField" layoutX="95.0" layoutY="250.0" prefHeight="31.0" prefWidth="451.0" promptText="Пароль" style="-fx-border-color: silver; -fx-border-radius: 5;">
+                    <font>
+                        <Font size="18.0" />
+                    </font>
+                </PasswordField>
+                <Button fx:id="registerButton" layoutX="400.0" layoutY="400.0" mnemonicParsing="false" onAction="#register" prefHeight="37.0" prefWidth="152.0" style="-fx-background-color: f39c63;" text="Регистрация" textAlignment="CENTER" textFill="WHITE">
+                    <font>
+                        <Font name="Verdana" size="18.0" />
+                    </font>
+                </Button>
+                <Label fx:id="authLabel" alignment="CENTER" contentDisplay="TOP" layoutX="172.0" layoutY="-3.0" prefHeight="70.0" prefWidth="289.0"  textAlignment="CENTER" textFill="#000000" textOverrun="CENTER_ELLIPSIS" >
+                    <font>
+                        <Font name="Verdana" size="25.0" />
+                    </font>
+                </Label>
+                <Button fx:id="authButton" alignment="CENTER" layoutX="95.0" layoutY="400.0" mnemonicParsing="false" onAction="#auth" prefHeight="37.0" prefWidth="144.0" style="-fx-background-color: f39c63;" text="Авторизация" textAlignment="CENTER" textFill="WHITE">
+                    <font>
+                        <Font name="Verdana" size="18.0" />
+                    </font>
+                </Button>
+                <ComboBox fx:id="languageBox" layoutX="540" layoutY="0.1" prefHeight="40" prefWidth="80"  onAction="#setLang" >
+                </ComboBox>
+            </children>
+        </AnchorPane>
+    </children>
+</AnchorPane>

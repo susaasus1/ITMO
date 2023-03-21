@@ -1,0 +1,8 @@
+#!/bin/bash
+pid="$(ps -a | grep -Eo "[0-9]*" | head -1)"
+for ((;;))
+do
+echo "$(sudo netstat -sp $pid | head -n 9 | grep -E 'received|sent' | cut -d' ' -f5)" >> net
+sleep 1
+done
+

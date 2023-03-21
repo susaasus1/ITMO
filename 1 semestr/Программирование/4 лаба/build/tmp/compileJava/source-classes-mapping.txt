@@ -1,0 +1,50 @@
+com/itmo/act/Spell.java
+ com.itmo.act.Spell
+com/itmo/exception/ExistException.java
+ com.itmo.exception.ExistException
+com/itmo/notalive/Tea.java
+ com.itmo.notalive.Tea
+com/itmo/act/Skill.java
+ com.itmo.act.Skill
+com/itmo/notalive/Poster.java
+ com.itmo.notalive.Poster
+com/itmo/act/Brackets.java
+ com.itmo.act.Brackets
+com/itmo/notalive/Craft.java
+ com.itmo.notalive.Craft
+com/itmo/notalive/Drama.java
+ com.itmo.notalive.Drama
+ com.itmo.notalive.Drama$Premier
+com/itmo/exception/DescException.java
+ com.itmo.exception.DescException
+com/itmo/notalive/Thing.java
+ com.itmo.notalive.Thing
+com/itmo/being/Hemuliha.java
+ com.itmo.being.Hemuliha
+com/itmo/being/Born.java
+ com.itmo.being.Born
+ com.itmo.being.Born$1Local
+com/itmo/being/Guests.java
+ com.itmo.being.Guests
+com/itmo/notalive/Grass.java
+ com.itmo.notalive.Grass
+com/itmo/notalive/Forest.java
+ com.itmo.notalive.Forest
+com/itmo/notalive/Place.java
+ com.itmo.notalive.Place
+ com.itmo.notalive.Place$Time
+com/itmo/being/Snusmumrik.java
+ com.itmo.being.Snusmumrik
+com/itmo/notalive/Home.java
+ com.itmo.notalive.Home
+com/itmo/Main.java
+ com.itmo.Main
+ com.itmo.Main$1
+com/itmo/notalive/Tube.java
+ com.itmo.notalive.Tube
+com/itmo/being/Kids.java
+ com.itmo.being.Kids
+com/itmo/notalive/Roof.java
+ com.itmo.notalive.Roof
+com/itmo/notalive/Park.java
+ com.itmo.notalive.Park

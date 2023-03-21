@@ -1,0 +1,2 @@
+public class SimpsonMethod {
+}

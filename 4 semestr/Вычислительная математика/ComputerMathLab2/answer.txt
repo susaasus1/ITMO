@@ -1,0 +1,7 @@
+root byBisection512.052734375
+Answer=-0.0015010537972059979, Iterations=11
+root bySimpleIteration513.099135610257301
+Answer=-0.0010671191766498112, Iterations=2
+rootX byIteration50.2033827465513719
+rootY byIteration50.6773270394906847
+Iterations=5

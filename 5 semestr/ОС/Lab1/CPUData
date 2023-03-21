@@ -1,0 +1,287 @@
+top - 16:13:46 up 13:54,  1 user,  load average: 2,10, 2,19, 1,48
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0,8 us,  0,8 sy,  0,0 ni, 98,0 id,  0,0 wa,  0,0 hi,  0,4 si,  0,0 st
+МиБ Mem :  15385,4 total,   6326,2 free,   4999,8 used,   4059,4 buff/cache
+МиБ Swap:   2048,0 total,   2048,0 free,      0,0 used.   9757,4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  16549 daniil    20   0 1167572 550296   3340 S   0,0   3,5  11:05.87 297306
+
+top - 16:13:49 up 13:54,  1 user,  load average: 2,10, 2,19, 1,48
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2,6 us,  3,8 sy,  0,0 ni, 93,3 id,  0,0 wa,  0,0 hi,  0,3 si,  0,0 st
+МиБ Mem :  15385,4 total,   6342,7 free,   4983,2 used,   4059,5 buff/cache
+МиБ Swap:   2048,0 total,   2048,0 free,      0,0 used.   9774,0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  16549 daniil    20   0 1167572 550296   3340 S  52,0   3,5  11:07.43 297306
+
+top - 16:13:52 up 13:54,  1 user,  load average: 2,25, 2,22, 1,50
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2,0 us, 23,7 sy,  0,0 ni, 72,6 id,  0,0 wa,  0,0 hi,  1,7 si,  0,0 st
+МиБ Mem :  15385,4 total,   6342,6 free,   4983,3 used,   4059,5 buff/cache
+МиБ Swap:   2048,0 total,   2048,0 free,      0,0 used.   9773,9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  16549 daniil    20   0 1167572 550296   3340 S 399,0   3,5  11:19.44 297306
+
+top - 16:13:55 up 13:54,  1 user,  load average: 2,39, 2,25, 1,51
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1,8 us, 23,6 sy,  0,0 ni, 72,4 id,  0,0 wa,  0,0 hi,  2,2 si,  0,0 st
+МиБ Mem :  15385,4 total,   6341,6 free,   4984,2 used,   4059,5 buff/cache
+МиБ Swap:   2048,0 total,   2048,0 free,      0,0 used.   9773,0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  16549 daniil    20   0 1167572 550296   3340 S 400,0   3,5  11:31.44 297306
+
+top - 16:13:58 up 13:54,  1 user,  load average: 2,39, 2,25, 1,51
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1,6 us, 20,3 sy,  0,0 ni, 76,2 id,  0,0 wa,  0,0 hi,  2,0 si,  0,0 st
+МиБ Mem :  15385,4 total,   6339,4 free,   4986,4 used,   4059,5 buff/cache
+МиБ Swap:   2048,0 total,   2048,0 free,      0,0 used.   9770,8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  16549 daniil    20   0 1167572 550296   3340 S 348,3   3,5  11:41.89 297306
+
+top - 16:14:01 up 13:54,  1 user,  load average: 2,20, 2,22, 1,50
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0,7 us,  0,6 sy,  0,0 ni, 98,6 id,  0,0 wa,  0,0 hi,  0,1 si,  0,0 st
+МиБ Mem :  15385,4 total,   6339,4 free,   4986,4 used,   4059,5 buff/cache
+МиБ Swap:   2048,0 total,   2048,0 free,      0,0 used.   9770,8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  16549 daniil    20   0 1167572 550296   3340 S   5,3   3,5  11:42.05 297306
+
+top - 16:14:04 up 13:54,  1 user,  load average: 2,20, 2,22, 1,50
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0,5 us,  0,4 sy,  0,0 ni, 99,0 id,  0,0 wa,  0,0 hi,  0,1 si,  0,0 st
+МиБ Mem :  15385,4 total,   6341,7 free,   4984,2 used,   4059,5 buff/cache
+МиБ Swap:   2048,0 total,   2048,0 free,      0,0 used.   9773,0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  16549 daniil    20   0 1167572 550296   3340 S   5,0   3,5  11:42.20 297306
+
+top - 16:14:07 up 13:54,  1 user,  load average: 2,02, 2,18, 1,49
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1,0 us,  1,9 sy,  0,0 ni, 96,1 id,  0,8 wa,  0,0 hi,  0,2 si,  0,0 st
+МиБ Mem :  15385,4 total,   6354,8 free,   4970,0 used,   4060,5 buff/cache
+МиБ Swap:   2048,0 total,   2048,0 free,      0,0 used.   9786,2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  16549 daniil    20   0 1167572 550296   3340 S  20,3   3,5  11:42.81 297306
+
+top - 16:14:10 up 13:54,  1 user,  load average: 1,86, 2,14, 1,48
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1,1 us,  0,6 sy,  0,0 ni, 98,2 id,  0,0 wa,  0,0 hi,  0,1 si,  0,0 st
+МиБ Mem :  15385,4 total,   6352,2 free,   4972,6 used,   4060,6 buff/cache
+МиБ Swap:   2048,0 total,   2048,0 free,      0,0 used.   9783,6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  16549 daniil    20   0 1167572 550296   3340 S   0,0   3,5  11:42.81 297306
+
+top - 16:14:13 up 13:54,  1 user,  load average: 1,86, 2,14, 1,48
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1,3 us,  4,0 sy,  0,0 ni, 94,5 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+МиБ Mem :  15385,4 total,   6350,5 free,   4974,2 used,   4060,6 buff/cache
+МиБ Swap:   2048,0 total,   2048,0 free,      0,0 used.   9782,0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  16549 daniil    20   0 1167572 550296   3340 S  55,3   3,5  11:44.47 297306
+
+top - 16:14:16 up 13:54,  1 user,  load average: 2,03, 2,17, 1,50
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2,0 us, 23,6 sy,  0,0 ni, 72,5 id,  0,0 wa,  0,0 hi,  1,9 si,  0,0 st
+МиБ Mem :  15385,4 total,   6351,6 free,   4973,1 used,   4060,6 buff/cache
+МиБ Swap:   2048,0 total,   2048,0 free,      0,0 used.   9783,1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  16549 daniil    20   0 1167572 550296   3340 S 400,3   3,5  11:56.48 297306
+
+top - 16:14:19 up 13:54,  1 user,  load average: 2,03, 2,17, 1,50
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1,9 us, 23,6 sy,  0,0 ni, 71,9 id,  0,0 wa,  0,0 hi,  2,6 si,  0,0 st
+МиБ Mem :  15385,4 total,   6348,3 free,   4976,5 used,   4060,6 buff/cache
+МиБ Swap:   2048,0 total,   2048,0 free,      0,0 used.   9779,7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  16549 daniil    20   0 1167572 550296   3340 S 399,7   3,5  12:08.51 297306
+
+top - 16:14:22 up 13:54,  1 user,  load average: 2,27, 2,22, 1,52
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  4,1 us, 20,8 sy,  0,0 ni, 73,2 id,  0,0 wa,  0,0 hi,  1,9 si,  0,0 st
+МиБ Mem :  15385,4 total,   6360,0 free,   4972,4 used,   4052,9 buff/cache
+МиБ Swap:   2048,0 total,   2048,0 free,      0,0 used.   9791,5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  16549 daniil    20   0 1167572 550296   3340 S 346,3   3,5  12:18.90 297306
+
+top - 16:14:25 up 13:54,  1 user,  load average: 2,09, 2,18, 1,51
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1,1 us,  0,9 sy,  0,0 ni, 97,8 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+МиБ Mem :  15385,4 total,   6355,4 free,   4977,0 used,   4052,9 buff/cache
+МиБ Swap:   2048,0 total,   2048,0 free,      0,0 used.   9786,9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  16549 daniil    20   0 1167572 550296   3340 S   4,7   3,5  12:19.04 297306
+
+top - 16:14:28 up 13:54,  1 user,  load average: 2,09, 2,18, 1,51
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0,8 us,  1,7 sy,  0,0 ni, 96,6 id,  0,7 wa,  0,0 hi,  0,3 si,  0,0 st
+МиБ Mem :  15385,4 total,   6368,8 free,   4963,6 used,   4053,0 buff/cache
+МиБ Swap:   2048,0 total,   2048,0 free,      0,0 used.   9800,2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  16549 daniil    20   0 1167572 550296   3340 S  18,3   3,5  12:19.59 297306
+
+top - 16:14:31 up 13:54,  1 user,  load average: 2,00, 2,16, 1,51
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1,2 us,  0,4 sy,  0,0 ni, 98,3 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+МиБ Mem :  15385,4 total,   6367,3 free,   4965,0 used,   4053,0 buff/cache
+МиБ Swap:   2048,0 total,   2048,0 free,      0,0 used.   9798,8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  16549 daniil    20   0 1167572 550296   3340 S   0,0   3,5  12:19.59 297306
+
+top - 16:14:34 up 13:54,  1 user,  load average: 2,00, 2,16, 1,51
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0,5 us,  0,4 sy,  0,0 ni, 99,2 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+МиБ Mem :  15385,4 total,   6362,6 free,   4969,8 used,   4053,0 buff/cache
+МиБ Swap:   2048,0 total,   2048,0 free,      0,0 used.   9794,1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  16549 daniil    20   0 1167572 550296   3340 S   0,0   3,5  12:19.59 297306
+
+top - 16:14:37 up 13:54,  1 user,  load average: 1,84, 2,13, 1,50
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0,5 us,  3,9 sy,  0,0 ni, 95,6 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+МиБ Mem :  15385,4 total,   6360,9 free,   4971,4 used,   4053,0 buff/cache
+МиБ Swap:   2048,0 total,   2048,0 free,      0,0 used.   9792,4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  16549 daniil    20   0 1167572 550296   3340 S  58,8   3,5  12:21.36 297306
+
+top - 16:14:40 up 13:54,  1 user,  load average: 2,01, 2,16, 1,51
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1,3 us, 24,2 sy,  0,0 ni, 74,5 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+МиБ Mem :  15385,4 total,   6361,2 free,   4971,2 used,   4053,0 buff/cache
+МиБ Swap:   2048,0 total,   2048,0 free,      0,0 used.   9792,6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  16549 daniil    20   0 1167572 550296   3340 S 400,7   3,5  12:33.38 297306
+
+top - 16:14:43 up 13:55,  1 user,  load average: 2,01, 2,16, 1,51
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1,2 us, 24,2 sy,  0,0 ni, 74,5 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+МиБ Mem :  15385,4 total,   6360,0 free,   4972,4 used,   4053,0 buff/cache
+МиБ Swap:   2048,0 total,   2048,0 free,      0,0 used.   9791,5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  16549 daniil    20   0 1167572 550296   3340 S 403,3   3,5  12:45.48 297306
+
+top - 16:14:46 up 13:55,  1 user,  load average: 2,17, 2,19, 1,52
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1,6 us, 20,3 sy,  0,0 ni, 78,1 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+МиБ Mem :  15385,4 total,   6358,0 free,   4974,3 used,   4053,0 buff/cache
+МиБ Swap:   2048,0 total,   2048,0 free,      0,0 used.   9789,5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  16549 daniil    20   0 1167572 550296   3340 S 341,5   3,5  12:55.76 297306
+
+top - 16:14:49 up 13:55,  1 user,  load average: 2,17, 2,19, 1,52
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0,6 us,  1,5 sy,  0,0 ni, 97,0 id,  0,8 wa,  0,0 hi,  0,2 si,  0,0 st
+МиБ Mem :  15385,4 total,   6363,1 free,   4969,2 used,   4053,0 buff/cache
+МиБ Swap:   2048,0 total,   2048,0 free,      0,0 used.   9794,6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  16549 daniil    20   0 1167572 550296   3340 S  19,0   3,5  12:56.33 297306
+
+top - 16:14:52 up 13:55,  1 user,  load average: 2,00, 2,15, 1,52
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0,4 us,  0,3 sy,  0,0 ni, 99,3 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+МиБ Mem :  15385,4 total,   6364,6 free,   4967,7 used,   4053,0 buff/cache
+МиБ Swap:   2048,0 total,   2048,0 free,      0,0 used.   9796,1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  16549 daniil    20   0 1167572 550296   3340 S   0,0   3,5  12:56.33 297306
+
+top - 16:14:55 up 13:55,  1 user,  load average: 1,84, 2,12, 1,51
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0,4 us,  0,3 sy,  0,0 ni, 99,3 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+МиБ Mem :  15385,4 total,   6364,4 free,   4967,9 used,   4053,1 buff/cache
+МиБ Swap:   2048,0 total,   2048,0 free,      0,0 used.   9795,9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  16549 daniil    20   0 1167572 550296   3340 S   0,0   3,5  12:56.33 297306
+
+top - 16:14:58 up 13:55,  1 user,  load average: 1,84, 2,12, 1,51
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0,5 us,  0,3 sy,  0,0 ni, 99,1 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+МиБ Mem :  15385,4 total,   6361,5 free,   4970,8 used,   4053,1 buff/cache
+МиБ Swap:   2048,0 total,   2048,0 free,      0,0 used.   9793,0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  16549 daniil    20   0 1167572 550296   3340 S   0,0   3,5  12:56.33 297306
+
+top - 16:15:01 up 13:55,  1 user,  load average: 1,69, 2,08, 1,50
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0,5 us,  4,1 sy,  0,0 ni, 95,4 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+МиБ Mem :  15385,4 total,   6361,2 free,   4971,1 used,   4053,1 buff/cache
+МиБ Swap:   2048,0 total,   2048,0 free,      0,0 used.   9792,8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  16549 daniil    20   0 1167572 550296   3340 S  62,7   3,5  12:58.21 297306
+
+top - 16:15:04 up 13:55,  1 user,  load average: 1,69, 2,08, 1,50
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1,4 us, 24,2 sy,  0,0 ni, 74,4 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+МиБ Mem :  15385,4 total,   6361,4 free,   4971,0 used,   4053,0 buff/cache
+МиБ Swap:   2048,0 total,   2048,0 free,      0,0 used.   9793,0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  16549 daniil    20   0 1167572 550296   3340 S 401,7   3,5  13:10.30 297306
+
+top - 16:15:07 up 13:55,  1 user,  load average: 1,88, 2,11, 1,51
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1,5 us, 24,1 sy,  0,0 ni, 74,4 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+МиБ Mem :  15385,4 total,   6360,7 free,   4971,6 used,   4053,1 buff/cache
+МиБ Swap:   2048,0 total,   2048,0 free,      0,0 used.   9792,3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  16549 daniil    20   0 1167572 550296   3340 S 403,7   3,5  13:22.41 297306
+
+top - 16:15:10 up 13:55,  1 user,  load average: 1,81, 2,10, 1,51
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1,4 us, 21,6 sy,  0,0 ni, 76,1 id,  0,9 wa,  0,0 hi,  0,0 si,  0,0 st
+МиБ Mem :  15385,4 total,   6364,6 free,   4967,7 used,   4053,1 buff/cache
+МиБ Swap:   2048,0 total,   2048,0 free,      0,0 used.   9796,2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  16549 daniil    20   0 1167572 550296   3340 S 357,0   3,5  13:33.12 297306
+
+top - 16:15:13 up 13:55,  1 user,  load average: 1,81, 2,10, 1,51
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0,5 us,  0,4 sy,  0,0 ni, 99,0 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+МиБ Mem :  15385,4 total,   6348,6 free,   4983,8 used,   4053,0 buff/cache
+МиБ Swap:   2048,0 total,   2048,0 free,      0,0 used.   9780,2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  16549 daniil    20   0 1167572 550296   3340 S   0,3   3,5  13:33.13 297306
+
+top - 16:15:16 up 13:55,  1 user,  load average: 1,66, 2,06, 1,50
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0,5 us,  0,3 sy,  0,0 ni, 99,2 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+МиБ Mem :  15385,4 total,   6347,9 free,   4984,4 used,   4053,1 buff/cache
+МиБ Swap:   2048,0 total,   2048,0 free,      0,0 used.   9779,5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  16549 daniil    20   0 1167572 550296   3340 S   0,0   3,5  13:33.13 297306
+
+top - 16:15:19 up 13:55,  1 user,  load average: 1,66, 2,06, 1,50
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0,4 us,  0,3 sy,  0,0 ni, 99,3 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+МиБ Mem :  15385,4 total,   6354,6 free,   4977,7 used,   4053,1 buff/cache
+МиБ Swap:   2048,0 total,   2048,0 free,      0,0 used.   9786,2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  16549 daniil    20   0 1167572 550296   3340 S   0,0   3,5  13:33.13 297306

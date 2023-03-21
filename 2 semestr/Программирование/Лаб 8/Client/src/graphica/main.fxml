@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.canvas.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<?import com.sun.javafx.scene.control.skin.ContextMenuContent.MenuBox?>
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity"  minHeight="-Infinity" minWidth="-Infinity" prefHeight="1080.0"
+            prefWidth="1920.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1"
+            fx:controller="graphica.MainController">
+    <children>
+        <Text fx:id="username" layoutX="700.0" layoutY="1054.0" strokeType="OUTSIDE" strokeWidth="0.0">
+            <font>
+                <Font name="Comic Sans MS" size="33.0"/>
+            </font>
+        </Text>
+        <MenuBar>
+            <Menu fx:id="menu">
+                <MenuItem mnemonicParsing="false" onAction="#help" text="Help"/>
+                <MenuItem mnemonicParsing="false" onAction="#info" text="Info"/>
+                <MenuItem mnemonicParsing="false" onAction="#show" text="Show"/>
+                <MenuItem mnemonicParsing="false" onAction="#add" text="Add"/>
+                <MenuItem mnemonicParsing="false" onAction="#update" text="Update"/>
+                <MenuItem mnemonicParsing="false" onAction="#remove" text="RemoveById"/>
+                <MenuItem mnemonicParsing="false" onAction="#clear" text="Clear"/>
+                <MenuItem mnemonicParsing="false" onAction="#execute_script" text="Execute Script"/>
+                <MenuItem mnemonicParsing="false" onAction="#insert" text="InsertAtIndex"/>
+                <MenuItem mnemonicParsing="false" onAction="#removeIn" text="RemoveAtIndex"/>
+                <MenuItem mnemonicParsing="false" onAction="#removegreater" text="RemoveGreater"/>
+                <MenuItem mnemonicParsing="false" onAction="#filterCont" text="FilterContainsName"/>
+                <MenuItem mnemonicParsing="false" onAction="#filterLess" text="FilterLessThanWeaponType"/>
+                <MenuItem mnemonicParsing="false" onAction="#printF" text="PrintFieldDescendingHeight"/>
+            </Menu>
+        </MenuBar>
+        <TextField fx:id="inputField" layoutX="13.0" layoutY="1020.0" prefHeight="31.0" prefWidth="307.0"
+                   promptText="inp_text"/>
+        <TextArea fx:id="outputField" layoutX="13.0" layoutY="800.0" prefHeight="200.0" prefWidth="1900.0"
+                  promptText="out_text"/>
+        <Button fx:id="exitButton" layoutX="1800.0" layoutY="1040.0" mnemonicParsing="false" onAction="#exitWindow"
+                onKeyPressed="#exitWindow" text="Exit"/>
+        <Button fx:id="readyButton" layoutX="340.0" layoutY="1020.0" mnemonicParsing="false" onAction="#ready"
+                 text="Ввести текст">
+            <font>
+                <Font size="19.0"/>
+            </font>
+        </Button>
+        <ComboBox fx:id="languageBox" layoutY="0" layoutX="1700" onAction="#setLang">
+        </ComboBox>
+        <TabPane layoutX="13.0" layoutY="40.0" prefHeight="750.0" prefWidth="1900.0" tabClosingPolicy="UNAVAILABLE" >
+            <tabs>
+                <Tab fx:id="tabV" >
+                    <content>
+                        <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0"
+                                    style="-fx-background-color: white;">
+                            <children>
+                                <Canvas fx:id="canvas" height="700.0" onMouseClicked="#showPerson" width="1900"/>
+                            </children>
+                        </AnchorPane>
+                    </content>
+                </Tab>
+                <Tab fx:id="tabT" >
+                    <content>
+                        <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="750.0" prefWidth="1900.0" >
+                            <children>
+                                <TableView fx:id="dbTable" layoutX="0.0" layoutY="0.0" prefHeight="650.0" prefWidth="1900.0" editable="true">
+                                    <columns>
+                                        <TableColumn fx:id="idColoumn" prefWidth="40.0" text="id"  />
+                                        <TableColumn fx:id="nameColoumn" prefWidth="80.0" text="name" editable="true"/>
+                                        <TableColumn fx:id="coord_xColoumn" prefWidth="70.0" text="Coord: X"/>
+                                        <TableColumn fx:id="coord_yColoumn" prefWidth="70.0" text="Coord: Y"/>
+                                        <TableColumn fx:id="creatColoumn" prefWidth="85.0" text="creationDate"/>
+                                        <TableColumn fx:id="healthColoumn" prefWidth="57.0" text="health"/>
+                                        <TableColumn fx:id="heightColoumn" prefWidth="79.0" text="height"/>
+                                        <TableColumn fx:id="categoryColoumn" prefWidth="84.0" text="category"/>
+                                        <TableColumn fx:id="weaponColoumn" prefWidth="117.0" text="weaponType"/>
+                                        <TableColumn fx:id="chap_nameColoumn" prefWidth="80.0" text="Chap: Name"/>
+                                        <TableColumn fx:id="chap_parentColoumn" prefWidth="80.0" text="Chap: Legion"/>
+                                        <TableColumn fx:id="chap_countColoumn" prefWidth="80.0" text="Chap: Count"/>
+                                        <TableColumn fx:id="chap_worldColoumn" prefWidth="80.0" text="Chap: World"/>
+                                        <TableColumn fx:id="userColoumn" prefWidth="140.0" text="user"/>
+                                    </columns>
+                                </TableView>
+                                <HBox layoutY="670" layoutX="0" prefHeight="40.0" prefWidth="1900.0">
+                                    <children>
+                                        <TextField fx:id="idField" prefHeight="30.0" prefWidth="40.0" promptText="id" />
+                                        <TextField fx:id="nameField" prefHeight="30.0" prefWidth="80.0" promptText="name" />
+                                        <TextField fx:id="coordxField" prefHeight="30.0" prefWidth="70.0" promptText="Coord: X" />
+                                        <TextField fx:id="coordyField" prefHeight="30.0" prefWidth="70.0" promptText="Coord: Y" />
+                                        <TextField fx:id="createField" prefHeight="30.0" prefWidth="85.0" promptText="creationDate" />
+                                        <TextField fx:id="healthField" prefHeight="30.0" prefWidth="57.0" promptText="health" />
+                                        <TextField fx:id="heightField" prefHeight="30.0" prefWidth="79.0" promptText="height" />
+                                        <TextField fx:id="categoryField" prefHeight="30.0" prefWidth="84.0" promptText="category" />
+                                        <TextField fx:id="weaponField" prefHeight="30.0" prefWidth="117.0" promptText="weaponType" />
+                                        <TextField fx:id="chapNameField" prefHeight="30.0" prefWidth="80.0" promptText="Chap: Name" />
+                                        <TextField fx:id="chapLegField" prefHeight="30.0" prefWidth="80.0" promptText="Chap: Legion" />
+                                        <TextField fx:id="chapCountField" prefHeight="30.0" prefWidth="80.0" promptText="Chap: Count" />
+                                        <TextField fx:id="chapWorldField" prefHeight="30.0" prefWidth="80.0" promptText="Chap: World" />
+                                        <TextField fx:id="userField" prefHeight="30.0" prefWidth="140.0" promptText="user" />
+                                    </children>
+                                </HBox>
+                            </children>
+                        </AnchorPane>
+                    </content>
+                </Tab>
+            </tabs>
+        </TabPane>
+    </children>
+</AnchorPane>

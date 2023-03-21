@@ -1,0 +1,1 @@
+wc -m victreebel9 >> victreebel9 2> /dev/null

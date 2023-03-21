@@ -1,0 +1,33 @@
+timetable:
+   subject1:
+      day: чт
+      time: 08:20-09:50
+      room: 466
+      lesson: МАТЕМАТИКА (БАЗОВЫЙ УРОВЕНЬ)(ЛЕК)
+      teacher: Возианова Анна
+      location: Кронверкский пр., д.49, лит.А
+      parity: True
+   subject2:
+      day: чт
+      time: 10:00-11:30
+      room: Актовый Зал
+      lesson: ПРОГРАММИРОВАНИЕ(ЛЕК)
+      teacher: Письмак Алексей Евгеньевич
+      location: Кронверкский пр., д.49, лит.А
+      parity: True
+   subject3:
+      day: чт
+      time: 10:00-11:30
+      room: Актовый Зал
+      lesson: ИНФОРМАТИКА(ЛЕК)
+      teacher: Балакшин Павел Валерьевич
+      location: Кронверкский пр., д.49, лит.А
+      parity: False
+   subject4:
+      day: чт
+      time: 11:40-13:10
+      room: Актовый Зал
+      lesson: ОСНОВЫ ПРОФЕССИОНАЛЬНОЙ ДЕЯТЕЛЬНОСТИ(ЛЕК)
+      teacher: Клименков Сергей Викторович
+      location: Кронверкский пр., д.49, лит.А
+      parity: True
