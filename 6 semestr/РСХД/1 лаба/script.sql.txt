@@ -1,0 +1,24 @@
+DO
+$$
+    DECLARE
+        row              record;
+        null_value_found BOOLEAN;
+        i                integer := 0;
+    BEGIN
+        RAISE NOTICE 'Схема: s313089';
+        RAISE NOTICE 'No.  Имя таблицы';
+        RAISE NOTICE '---  -------------------------------';
+        FOR row IN
+            SELECT table_name, column_name
+            FROM information_schema.columns
+            WHERE table_schema = 's313089'
+            LOOP
+                EXECUTE format('SELECT EXISTS (SELECT 1 FROM %I WHERE %I IS NULL)', row.table_name,
+                               row.column_name) INTO null_value_found;
+                IF null_value_found THEN
+                    i := i + 1;
+                    RAISE NOTICE '%. %', i, row.table_name;
+                END IF;
+            END LOOP;
+    END
+$$;
